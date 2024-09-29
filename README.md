@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @l1l888
 - 👀 I’m interested in Python, AI, and Machine Learning
-- 🌱 I’m currently learning how to create network packets using sCapy
+- 🌱 I’m currently learning how to create network packets using Scapy
 - 💞️ I’m looking to collaborate on anything machine learning related.
 - 📫 How to reach me ...
 - 😄 Pronouns: she/Her/Hers
